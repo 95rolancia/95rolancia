@@ -3,4 +3,4 @@
 ### Hello world!
 I'm JunHyeok Jang(rolan) and I will be a front-end engineer.
 
-![95rolacnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=95rolancia&show_icons=true&theme=radical)
+[![95rolacnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=95rolancia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
