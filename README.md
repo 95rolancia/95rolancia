@@ -2,5 +2,6 @@
 
 ### Hello world!
 [Notion Resume](https://polished-cruiser-979.notion.site/8c0d3b8bdedb4dc6b1b72f94a71cddc5)
+[Blog](https://blog-beta-ebon.vercel.app)
 
 [![95rolacnia's GitHub stats](https://github-readme-stats.vercel.app/api?username=95rolancia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
